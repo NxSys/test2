@@ -1,0 +1,17 @@
+* text=auto !eol
+web/index.html -text
+web/js/PrimaryPumpWorker.d.ts -text
+web/js/PrimaryPumpWorker.js -text
+web/js/PrimaryPumpWorker.js.map -text
+web/js/app.d.ts -text
+web/js/app.js -text
+web/js/app.js.map -text
+web/js/apptivity.d.ts -text
+web/js/apptivity.js -text
+web/js/apptivity.js.map -text
+web_ts-src/PrimaryPumpWorker.ts -text
+web_ts-src/Utils.ts -text
+web_ts-src/app.ts -text
+web_ts-src/apptivity.ts -text
+web_ts-src/tsconfig.json -text
+web_ts-src/types/jquery/jquery.d.ts -text
